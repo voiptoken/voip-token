@@ -1,0 +1,22 @@
+{
+  "symbol": "Voip",
+  "address": "0x958Ce508544A407aC4aa46d431C03eDeD845Fe1d",
+  "overview":{
+        "en": "Voip futures have created new innovations, crypto currency exchange systems have become very safe and secure, the modern system used to protect your assets, we also support the Blockchain, Ethereum, and several other networks.",
+        "zh": ""
+  },
+  "email": "info@voip-futures.com",
+  "website": "http://voip-futures.com",
+  "whitepaper": "http://voip-futures.com/whitepaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-09-25",
+  "initial_price":{
+        "ETH":"0.000002 ETH",
+        "USD":"0.0004 USD",
+  },
+  "links": {
+    "telegram": "https://t.me/voip_futures",
+    "github": "https://github.com/voiptoken",
+    "facebook": "https://www.facebook.com/voipfutures"
+  }
+}
